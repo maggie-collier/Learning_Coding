@@ -26,18 +26,51 @@
 # output = lone_sum(3, 2, 3)
 # print(output)
 
-def lucky_sum(a, b, c):
-  total = 0
-  print("total" , total)
-  if a != 13:
-    total += a
-    print("total a" , total)
-  elif b != 13:
-    total += b
-    print("total b" , total)
-  elif c != 13:
-    total += c
-    print("total c" , total)
-  return total
-output = lucky_sum(1, 2, 3)
+# def lucky_sum(a, b, c):
+#   total = 0
+#   print("total" , total)
+#   if a == 13:
+#     total = 0
+#   elif b == 13:
+#     total = a
+#   elif c == 13:
+#     total = a + b
+#   else:
+#     total = a + b + c
+#   return total
+# output = lucky_sum(1, 2, 3)
+# print(output)
+
+def no_teen_sum(a, b, c):
+  print("inside no teen sum")
+  sum = fix_teen(a)
+  sum += fix_teen(b)
+  sum += fix_teen(c)
+  return sum
+
+def fix_teen(n):
+
+  teen = 0
+
+
+
+  print("inside fix teen")
+  if n >= 13 and n <= 14 or n <= 17 and n >= 19:
+    teen = 0
+  else:
+    teen = n
+  return teen
+
+
+output = no_teen_sum(2, 13, 1)
 print(output)
+# print("hi")
+# def close_far(a, b, c):
+#   print("inside")
+#   print(abs(b - a) , abs(c - a) , abs(b - a) , abs(c - a) , (c - b))
+#   if abs(b - a) or abs(c - a) <= 1 and abs(b - a) and abs(c - a) and (c - b) >= 2:
+#     return True
+#   else:
+#     return False
+# output = close_far(1, 2, 3)
+# print(output)
