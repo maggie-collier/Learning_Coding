@@ -1,4 +1,10 @@
 # Notes On Learning Languages 
+Maggie I love you so much. You're
+An unbelievable woman and I'm so proud of who you've become and
+Are continuing to become :D seeing your 
+
+Determination to become the best version of yourself is amazing 
+And you're such an inspiration to me <3
 
 ## Types of Languages
 ### Procedural Programming Language: 
