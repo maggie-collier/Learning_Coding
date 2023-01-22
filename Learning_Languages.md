@@ -1,5 +1,14 @@
 # Notes On Learning Languages 
 
+start typing
+stuff
+anything random and then
+like every five words press
+enter
+i'm jarod
+type o babe
+babe use o please its so much faster
+
 ## Types of Languages
 ### Procedural Programming Language: 
 A procedural language follows a sequence of statements or commands in order to achieve a desired output. Each series of steps is called a procedure, and a program written in one of these languages will have one or more procedures within it. 
