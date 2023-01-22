@@ -1,7 +1,11 @@
-# Notes On Learning Languages 
-Maggie I love you so much. You're
+# Notes On Learning Languages testing stuff herr
+Hopefully this works this time Maggie I love you so much. You're
+Maybe a new line?
+
+More fun stuff this will break. 
+
 An unbelievable woman and I'm so proud of who you've become and
-Are continuing to become :D seeing your 
+Are continuing to become :D seeing your I'm typing here too 
 
 Determination to become the best version of yourself is amazing 
 And you're such an inspiration to me <3
